@@ -363,7 +363,9 @@ aside h3{
 		margin: 0px;
 		margin-bottom: 5px;
 	}
-	body{
+	body,
+	header a,
+	header #logo-text h1{
 	font-family: Arial, Helvetica, sans-serif			/*shortcut - font-size/line-height, font-family*/
 	/*font-family: 'Shadows Into Light', cursive;*/
 	padding: 0;
