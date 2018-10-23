@@ -368,4 +368,7 @@ aside h3{
 	header #logo-text h1{
 		font-family: Arial, Helvetica, sans-serif;
 	}
+	footer{
+		font-size: 50%;
+	}
 }
